@@ -18,8 +18,7 @@ Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar 
 * ⚡  Gosto de games, NFL, NBA e futebol.
 
 
-<div align="center">
-  
+<div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarcioreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 

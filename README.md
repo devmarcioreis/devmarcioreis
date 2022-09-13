@@ -17,8 +17,6 @@ Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar 
 * 🤝  Estou sempre aberto para novos desafios e aprender, claro.
 * ⚡  Gosto de games, NFL, NBA e futebol.
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 

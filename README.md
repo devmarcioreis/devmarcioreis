@@ -1,12 +1,14 @@
-Hi 👋 My name is Guilhermo
+OI, 👋 meu nome é Márcio!
 ==========================
 
-Full Stack Software Developer
+Desenvolvedor Front-end
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Sou um desenvolvedor desde Janeiro de 2021.
+Gosto muito codificar e descobrir como resolver problemas profundos usando tecnologia de ponta.
+Meu foco principal é o desenvolvimento front, fazendo aplicações que impactam a vida de milhares de usuários, clientes e amigos.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [44 campus in 26 countries](https://www.42network.org/42-schools/).
+Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar aprendendo novas técnologias e pre preparando para o futuro.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)

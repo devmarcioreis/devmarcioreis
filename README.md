@@ -17,9 +17,6 @@ Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar 
 * 🤝  Estou sempre aberto para novos desafios e aprender, claro.
 * ⚡  Gosto de games, NFL, NBA e futebol.
 
-<b>Meus conhecimentos</b>
-https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white
-
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 

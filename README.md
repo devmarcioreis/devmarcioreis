@@ -11,7 +11,7 @@ Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impa
 Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar aprendendo novas técnologias e me preparando para o futuro.
 
 * 🌍  Eu moro em São Paulo, Brasil.
-* ✉️  Você pode falar comigo no e-mail: [dev.marcioreis@gmail.com(mailto:dev.marcioreis@gmail.com)
+* ✉️  Você pode falar comigo no e-mail: dev.marcioreis@gmail.com
 * 🚀  No momento trabalho como freelancer.
 * 🧠  Estou aprendendo React e Angular.
 * 🤝  Estou sempre aberto para novos desafios e aprender, claro.

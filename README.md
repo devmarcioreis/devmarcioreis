@@ -4,9 +4,9 @@ Oi, eu sou o Márcio Reis.
 Desenvolvedor Front-end
 -----------------------------
 
-Sou um desenvolvedor desde Janeiro de 2021.
-Gosto muito codificar e descobrir como resolver problemas profundos usando tecnologia de ponta.
-Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários, clientes e amigos.
+Sou um desenvolvedor desde Janeiro de 2021.<br>
+Saber analisar e resolver um problema é mais importante do que decorar os comandos de uma linguagem.
+Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de usuários, clientes e amigos.
 
 Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar aprendendo novas técnologias e me preparando para o futuro.
 

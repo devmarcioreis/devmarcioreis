@@ -4,11 +4,9 @@ Oi, eu sou o Márcio Reis.
 Desenvolvedor Front-end
 -----------------------------
 
-Sou um desenvolvedor desde Janeiro de 2021.<br>
-Saber analisar e resolver um problema é mais importante do que decorar os comandos de uma linguagem.
-Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de usuários, clientes e amigos.
-
-Eu também estudo análise e desenvolvimento de sistemas, além de sempre estar aprendendo novas técnologias e me preparando para o futuro.
+Sou um desenvolvedor desde Janeiro de 2021.
+Saber analisar e resolver um problema é mais importante do que decorar os comandos de uma linguagem. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de usuários, clientes e amigos.
+Também estudo análise e desenvolvimento de sistemas, além de sempre aprender novas técnologias e me preparar para o futuro.
 
 * 🌍  Eu moro em São Paulo, Brasil.
 * ✉️  Você pode falar comigo no e-mail: dev.marcioreis@gmail.com

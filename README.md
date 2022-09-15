@@ -29,5 +29,5 @@ Também estudo análise e desenvolvimento de sistemas, além de sempre aprender 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   JavaScript
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  Angular
+  React
 </div>

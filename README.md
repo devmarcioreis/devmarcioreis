@@ -1,9 +1,6 @@
 Oi, seja bem vindo!
 ==========================
 
-Desenvolvedor Front-end
------------------------------
-
 Sou um desenvolvedor desde Janeiro de 2021.<br>
 Saber analisar e resolver um problema é mais importante do que decorar os comandos de uma linguagem.<br>
 Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de usuários, clientes e amigos.<br>
